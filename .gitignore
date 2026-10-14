@@ -1,0 +1,24 @@
+# Environment variables
+.env
+.env.*
+.env.example
+
+# Dependencies
+node_modules/
+client/node_modules/
+backend/node_modules/
+
+# Hardhat generated files
+artifacts/
+cache/
+coverage/
+
+# Build files
+client/dist/
+backend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+generate_review3_ppt.py
